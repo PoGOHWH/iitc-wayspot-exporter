@@ -2,7 +2,7 @@
 // @id          wayspot-exporter@pogohwh
 // @name        IITC Plugin: Wayspot Exporter
 // @category    Information
-// @version     0.1
+// @version     1.0
 // @namespace   https://github.com/PoGOHWH/iitc-wayspot-exporter
 // @downloadURL https://github.com/PoGOHWH/iitc-wayspot-exporter/master/wayspot-exporter.user.js
 // @supportURL  https://github.com/PoGOHWH/iitc-wayspot-exporter
